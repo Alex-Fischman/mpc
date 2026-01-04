@@ -1,0 +1,289 @@
+1 Archetype of Aggression (BNG) 88
+1 Archetype of Courage (BNG) 4
+1 Archetype of Endurance (BNG) 116
+1 Archetype of Finality (BNG) 58
+1 Archetype of Imagination (BNG) 32
+1 Athreos, God of Passage (SLD) 76
+1 Ephara, God of the Polis (SLD) 72
+1 Erebos, Bleak-Hearted (THB) 262
+1 Erebos, God of the Dead (SLD) 74
+1 Go-Shintai of Ancient Wars (NEO) 144
+1 Go-Shintai of Boundless Vigor (NEO) 187
+1 Go-Shintai of Lost Wisdom (NEO) 55
+1 Heliod, God of the Sun (SLD) 68
+1 Heliod, Sun-Crowned (THB) 259
+1 Honden of Cleansing Fire (EMA) 13
+1 Honden of Infinite Rage (EMA) 134
+1 Honden of Life's Web (EMA) 172
+1 Honden of Night's Reach (EMA) 91
+1 Honden of Seeing Winds (EMA) 54
+1 Iroas, God of Victory (SLD) 70
+1 Karametra, God of Harvests (SLD) 69
+1 Keranos, God of Storms (SLD) 79
+1 Kruphix, God of Horizons (SLD) 73
+1 Mogis, God of Slaughter (SLD) 78
+1 Nylea, God of the Hunt (SLD) 80
+1 Nylea, Keen-Eyed (THB) 266
+1 Overlord of the Balemurk (DSK) 113
+1 Overlord of the Boilerbilges (DSK) 146
+1 Overlord of the Floodpits (DSK) 68
+1 Overlord of the Hauntwoods (DSK) 194
+1 Overlord of the Mistmoors (DSK) 23
+1 Pharika, God of Affliction (SLD) 82
+1 Phenax, God of Deception (SLD) 75
+1 Purphoros, Bronze-Blooded (THB) 265
+1 Purphoros, God of the Forge (SLD) 77
+1 Sanctum of All (M21) 225
+1 Sanctum of Calm Waters (M21) 68
+1 Sanctum of Fruitful Harvest (M21) 203
+1 Sanctum of Shattered Heights (M21) 157
+1 Sanctum of Stone Fangs (M21) 120
+1 Sanctum of Tranquil Light (M21) 33
+1 Thassa, Deep-Dwelling (THB) 261
+1 Thassa, God of the Sea (SLD) 71
+1 Xenagos, God of Revels (SLD) 81
+
+1 Eris, Roar of the Storm (OTC) 5
+1 Kokusho, the Evening Star (IMA) 95
+1 Planar Nexus (M3C) 132
+1 Urza's Mine (M3C) 401
+1 Urza's Power Plant (M3C) 402
+1 Urza's Tower (M3C) 403
+
+8 Adarkar Wastes (EOC) 147
+8 Arid Mesa (MH2) 244
+8 Battlefield Forge (EOC) 58
+8 Blazemire Verge (DSK) 256
+8 Bleachbone Verge (DFT) 250
+8 Blood Crypt (RVR) 273
+8 Bloodstained Mire (MH3) 216
+8 Bountiful Promenade (CLB) 348
+8 Breeding Pool (RVR) 275
+8 Brushland (BLC) 295
+8 Caves of Koilos (TDC) 348
+8 Commercial District (MKM) 259
+8 Elegant Parlor (MKM) 260
+8 Flooded Strand (MH3) 220
+8 Floodfarm Verge (DSK) 259
+8 Gloomlake Verge (DSK) 260
+8 Godless Shrine (RVR) 277
+8 Hallowed Fountain (RVR) 280
+8 Hedge Maze (MKM) 262
+8 Hushwood Verge (DSK) 261
+4 Indatha Triome (IKO) 248
+4 Jetmir's Garden (SNC) 250
+8 Karplusan Forest (EOC) 164
+4 Ketria Triome (IKO) 250
+8 Llanowar Wastes (EOC) 165
+8 Lush Portico (MKM) 263
+8 Luxury Suite (CLB) 355
+8 Marsh Flats (MH2) 248
+8 Meticulous Archive (MKM) 264
+8 Misty Rainforest (MH2) 250
+8 Morphic Pool (CLB) 357
+8 Overgrown Tomb (RVR) 283
+8 Polluted Delta (MH3) 224
+4 Raffine's Tower (SNC) 254
+8 Raucous Theater (MKM) 266
+4 Raugrin Triome (IKO) 251
+8 Rejuvenating Springs (CMM) 424
+8 Riverpyre Verge (DFT) 260
+8 Sacred Foundry (RVR) 285
+4 Savai Triome (IKO) 253
+8 Scalding Tarn (MH2) 254
+8 Sea of Clouds (CLB) 360
+8 Shadowy Backstreet (MKM) 268
+8 Shivan Reef (EOC) 179
+4 Spara's Headquarters (SNC) 257
+8 Spectator Seating (CMM) 427
+8 Spire Garden (CLB) 361
+8 Steam Vents (RVR) 288
+8 Stomping Ground (RVR) 289
+8 Sulfurous Springs (EOC) 185
+8 Sunbillow Verge (DFT) 264
+8 Temple Garden (RVR) 290
+8 Thornspire Verge (DSK) 270
+8 Thundering Falls (MKM) 269
+8 Training Center (CMM) 434
+8 Undercity Sewers (MKM) 270
+8 Underground Mortuary (MKM) 271
+8 Underground River (DSC) 321
+8 Undergrowth Stadium (CMM) 435
+8 Vault of Champions (CMM) 436
+8 Verdant Catacombs (MH2) 260
+8 Wastewood Verge (DFT) 268
+8 Watery Grave (RVR) 291
+8 Willowrush Verge (DFT) 270
+8 Windswept Heath (MH3) 235
+8 Wooded Foothills (MH3) 236
+4 Xander's Lounge (SNC) 260
+8 Yavimaya Coast (TDC) 413
+4 Zagoth Triome (IKO) 259
+4 Ziatora's Proving Ground (SNC) 261
+
+100 Forest (THB) 254
+100 Island (THB) 251
+100 Mountain (THB) 253
+100 Plains (THB) 250
+100 Swamp (THB) 252
+
+1 Oswald Fiddlebender (AFR) 28
+1 Agility Bobblehead (PIP) 126
+1 Ancient Den (EOC) 148
+1 Blasting Station (5DN) 107
+1 Buried Ruin (EOC) 150
+1 Candy Trail (WOE) 243
+1 Charisma Bobblehead (PIP) 130
+1 Chromatic Star (TSR) 263
+1 Codex Shredder (CMR) 304
+1 Conjurer's Bauble (5DN) 112
+1 Darksteel Citadel (C21) 285
+1 Draco (PLS) 131
+1 Endurance Bobblehead (PIP) 132
+1 Eriette's Tempting Apple (WOE) 245
+1 Feldon's Cane (FDN) 673
+1 Gerrard's Hourglass Pendant (DMC) 17
+1 Gilded Lotus (BLC) 271
+1 Glaring Spotlight (GTC) 229
+1 Gonti's Aether Heart (M3C) 294
+1 Grinding Station (5DN) 127
+1 Hot Dog Cart (SPM) 164
+1 Illusionist's Bracers (RVR) 260
+1 Implement of Improvement (AER) 158
+1 Inquisitive Puppet (ELD) 223
+1 Intelligence Bobblehead (PIP) 134
+1 Lavaspur Boots (OTJ) 243
+1 Leather Armor (AFR) 248
+1 Lens of Clarity (KTK) 223
+1 Leveler (MRD) 195
+1 Luck Bobblehead (PIP) 135
+1 Mana Geode (WAR) 241
+1 Manifold Key (CLB) 319
+1 Market Gnome (LCI) 22
+1 Masterwork of Ingenuity (AFC) 209
+1 Myr Moonvessel (DST) 133
+1 Nesting Bot (DFT) 22
+1 Nutrient Block (EOE) 243
+1 Patriar's Seal (CLB) 332
+1 Perception Bobblehead (PIP) 139
+1 Phyrexia's Core (C21) 309
+1 Pithing Needle (MID) 257
+1 Prized Statue (CLB) 334
+1 Salvaging Station (5DN) 148
+1 Sentinel Totem (XLN) 245
+1 Skyship Weatherlight (PLS) 133
+1 Sol Ring (M3C) 305
+1 Sonic Screwdriver (WHO) 184
+1 Spine of Ish Sah (BLC) 285
+1 Springleaf Drum (2XM) 291
+1 Sting, the Glinting Dagger (LTR) 250
+1 Strength Bobblehead (PIP) 143
+1 Summoning Station (5DN) 158
+1 Terrarion (EMN) 201
+1 The Mycosynth Gardens (EOC) 168
+1 Timesifter (MRD) 262
+1 Ugin's Nexus (KTK) 227
+1 Vessel of Endless Rest (UMA) 235
+1 Voltaic Key (M11) 219
+
+1 Axgard Armory (KHM) 250
+1 Blazing Sunsteel (CMR) 364
+1 Boiling Earth (BFZ) 142
+1 Desert (AFC) 233
+1 Forbidden Orchard (C16) 296
+1 Pyrohemia (CMA) 86
+1 Redemption Arc (MKC) 13
+1 Scouring Sands (BNG) 110
+1 Shivan Gorge (DSC) 297
+1 Smash to Dust (DMU) 144
+1 Vithian Stinger (MM3) 115
+1 Wojek Embermage (RAV) 152
+
+1 Agatha of the Vile Cauldron (WOE) 199
+1 Burning Sun's Avatar (XLN) 135
+1 Etali, Primal Storm (FDN) 194
+1 Ghalta, Primal Hunger (FDN) 222
+1 Kinjalli's Caller (XLN) 18
+1 Knight of the Stampede (RIX) 138
+1 Otepec Huntmaster (LCC) 229
+1 Quartzwood Crasher (LCC) 281
+1 Zetalpa, Primal Dawn (FDN) 584
+1 Zirda, the Dawnwaker (IKO) 233
+
+1 Ancient Brass Dragon (CLB) 111
+1 Ancient Bronze Dragon (CLB) 214
+1 Ancient Copper Dragon (CLB) 161
+1 Ancient Gold Dragon (CLB) 3
+1 Ancient Silver Dragon (CLB) 56
+
+1 Animate Dead (MKC) 125
+1 Azusa, Lost but Seeking (CMM) 274
+1 Birds of Paradise (RVR) 133
+1 Dread Return (TSR) 111
+1 Emeria, the Sky Ruin (C14) 293
+1 Entomb (DMR) 82
+1 Inventors' Fair (KLD) 247
+1 Land Tax (CMM) 37
+1 Mystical Tutor (DMR) 60
+1 Persist (MH2) 96
+1 Reanimate (DSC) 155
+
+1 Abnormal Endurance (M19) 85
+1 Altar's Reap (CMA) 45
+1 Apprentice Necromancer (UMA) 84
+1 Blood for Bones (M20) 89
+1 Corroding Dragonstorm (TDM) 75
+1 Defiler of Flesh (DMU) 90
+1 Demonic Gifts (KHM) 84
+1 Disciple of Bolas (TDC) 178
+1 Fake Your Own Death (FDN) 174
+1 Feed the Swarm (TDC) 180
+1 Haven of the Spirit Dragon (TDC) 370
+1 High Market (AFC) 246
+1 Hoarding Broodlord (MOM) 110
+1 Jet Medallion (MH3) 292
+1 K'rrik, Son of Yawgmoth (MH3) 274
+1 Morbid Curiosity (BBD) 149
+1 Not Dead After All (WOE) 101
+1 Presumed Dead (MKM) 100
+1 Return to Action (NEO) 121
+1 Saw in Half (BLC) 113
+1 The Darkness Crystal (FIN) 96
+1 The Sibsig Ceremony (TDM) 91
+1 Vampire Gourmand (FDN) 74
+1 Vampiric Rites (FDN) 615
+1 Village Rites (INR) 137
+1 Viscera Seer (TDC) 199
+1 Wake the Dead (CMM) 197
+1 Wayfarer's Bauble (TDC) 335
+1 Woe Strider (TDC) 201
+
+1 Agate Instigator (BLC) 21
+1 Auriok Champion (IMA) 9
+1 Authority of the Consuls (KLD) 5
+1 Auton Soldier (WHO) 36
+1 Awaken the Woods (BRO) 170
+1 Ayara, First of Locthwain (ELD) 75
+1 Bitterthorn, Nissa's Animus (MOC) 45
+1 Chameleon, Master of Disguise (SPM) 27
+1 Clever Impersonator (C19) 82
+1 Flesh Duplicate (WHO) 44
+1 Gogo, Master of Mimicry (FIN) 54
+1 Horizon of Progress (M3C) 130
+1 Impact Tremors (MOC) 285
+1 Isengard Unleashed (LTC) 495
+1 Malleable Impostor (WOC) 10
+1 Mocking Doppelganger (CLB) 667
+1 Myriad Landscape (EOC) 169
+1 Phantasmal Image (AFC) 89
+1 Retraced Image (TOR) 46
+1 Sasaya, Orochi Ascendant // Sasaya's Essence (SOK) 145
+1 Solphim, Mayhem Dominus (ONE) 150
+1 Stunt Double (CLU) 101
+1 Sword of Forge and Frontier (ONE) 244
+1 Sword of Hearth and Home (MH2) 238
+1 Sword of the Animist (CMM) 413
+1 Twinflame Tyrant (FDN) 97
+1 Valakut Exploration (ZNR) 175
+1 Walking Atlas (WWK) 131
+1 Witty Roastmaster (SNC) 131

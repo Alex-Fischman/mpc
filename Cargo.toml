@@ -1,0 +1,10 @@
+[package]
+name = "mpc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = "0.25.9"
+reqwest = "0.12.24"
+scryfall = "0.25.0"
+tokio = { version = "1.48.0", features = ["full"] }
